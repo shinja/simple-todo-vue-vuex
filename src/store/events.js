@@ -1,0 +1,5 @@
+export default {
+  ADD_TODO: 'todo/ADD_TODO',
+  ADD_TODO_FAILED: 'todo/ADD_TODO_FAILED',
+  ADD_TODO_SUCCEEDED: 'todo/ADD_TODO_SUCCEEDED'
+}
